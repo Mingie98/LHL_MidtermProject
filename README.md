@@ -1,37 +1,44 @@
 # LHL_MidtermProject
 
-## Project/Goals
+## Project Overview
 
-The goal of our project is to analyze the trend of the popularity of different bubble tea shops in Montreal, Canada.
+The essence of our project is to delve into the evolving landscape of bubble tea shop popularity in Montreal, Canada. This analysis aims to unearth patterns and trends that influence consumer preferences and shop success, providing valuable insights into the urban culinary map and youth culture.
 
 
 ## Process
 
-Step 1 - Figuring out what variables we would use to assess the popularity of bubble tea shops
+Variable Identification: We began by pinpointing key factors that might influence a bubble tea shop's popularity. These included proximity to educational institutions and public transport accessibility.
 
-Step 2 - Filtering out and cleaning the data
+Data Preparation: We rigorously cleaned and filtered our dataset to ensure accuracy and relevance.
 
-Step 3 - Gathering all the necessary data we are using to run our regression model
+Data Collection: Utilizing Google Places API and other sources, we gathered comprehensive data on bubble tea shops in Montreal.
 
-Step 4 - After analyzing the regression model, we will be drawing conclusions from our results
+Model Analysis: We employed regression models to analyze the impact of our chosen variables on the shops' popularity.
 
-Step 5 - Translating our findings into visualizations to better explain our findings
+Visualization and Interpretation: The data was then translated into intuitive visualizations, aiding in a clearer understanding of our findings.
 
 
 ## Results
 
-…
+Our primary metric for gauging popularity was the total number of reviews. Surprisingly, our regression analysis revealed a minimal correlation between our chosen independent variables (proximity to educational institutions and transportation facilities) and the popularity of bubble tea shops. This outcome suggests other underlying factors driving popularity that warrant further investigation.
 
+## Visual Representation
+
+![Screenshot](screenshots/pic1.JPG)
+
+![Screenshot](screenshots/pic2.JPG)
 
 ## Challenges
 
-Our biggest challenge for this project was trying to figure out how to properly push and pull changes from Github as we are collaborating on the project together.
+Collaborative Development: Mastering GitHub for effective team collaboration presented a learning curve.
 
-Another challenge we had was using the Google Places API, we had some difficulty working around the limit of 20 results showing up. Through using the time function, we managed to increase the limit to 60.
+API Limitations: Overcoming the Google Places API's result limitation was a technical hurdle, ingeniously bypassed by implementing strategic time-function use, expanding our result limit to 60 entries.
 
 
 ## Future Goals
 
-If we had more time, we would analyze other potential variables that we believe could affect our findings.
+Given more time and resources, our future endeavors would include:
 
-We could focus more on certain districts within the same city or notice if there was a significant difference between other cities to obtain a more thorough analysis on our data.
+Analyzing additional variables like shop ambiance, menu diversity, and pricing.
+
+Conducting district-specific studies within Montreal and comparative analyses across different cities.
