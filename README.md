@@ -1,11 +1,11 @@
 # LHL_MidtermProject
 
-Project/Goals
+## Project/Goals
 
 The goal of our project is to analyze the trend of the popularity of different bubble tea shops in Montreal, Canada.
 
 
-Process
+## Process
 
 Step 1 - Figuring out what variables we would use to assess the popularity of bubble tea shops
 
@@ -18,18 +18,18 @@ Step 4 - After analyzing the regression model, we will be drawing conclusions fr
 Step 5 - Translating our findings into visualizations to better explain our findings
 
 
-Results
+## Results
 
 …
 
 
-Challenges
+## Challenges
 
 Our biggest challenge for this project was trying to figure out how to properly push and pull changes from Github as we are collaborating on the project together.
 
 
 
 
-Future Goals
+## Future Goals
 
 If we had more time, we would analyze other potential variables that we believe could affect our findings.
