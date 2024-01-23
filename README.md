@@ -9,9 +9,9 @@ The essence of our project is to delve into the evolving landscape of bubble tea
 
 Variable Identification: We began by pinpointing key factors that might influence a bubble tea shop's popularity. These included proximity to educational institutions and public transport accessibility.
 
-Data Preparation: We rigorously cleaned and filtered our dataset to ensure accuracy and relevance.
-
 Data Collection: Utilizing Google Places API and other sources, we gathered comprehensive data on bubble tea shops in Montreal.
+
+Data Preparation: We rigorously cleaned and filtered our dataset to ensure accuracy and relevance.
 
 Model Analysis: We employed regression models to analyze the impact of our chosen variables on the shops' popularity.
 
